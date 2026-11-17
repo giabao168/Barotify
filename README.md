@@ -5,7 +5,7 @@
 <h1>Barotify</h1>
 
 **YouTube Music player for Windows and Android, with a liquid-glass interface.**<br>
-Ad-free · background playback · open source
+Ad-free · background playback
 
 <br>
 
@@ -315,20 +315,6 @@ A separate always-on-top **mini player window** shows the cover, title and trans
 | `-XX:ReservedCodeCacheSize=48m` | Smaller code cache |
 | `-XX:+UseStringDeduplication` | Share identical strings |
 | `-Xss512k` | Smaller thread stacks |
-
-<br>
-
-## Build from source
-
-Requirements: JDK 21, plus the Android SDK for Android builds.
-
-```bash
-./gradlew :desktopApp:run          # run the desktop app
-./gradlew :composeApp:jvmTest      # run the tests
-./gradlew detekt                   # static analysis
-```
-
-The full source of each version is attached to its [release](../../releases) as `Barotify-<version>-source.zip`. In it, `scripts/windows/build-release.ps1` builds both Windows editions in one run (jpackage + Inno Setup): the full and Lite installers, both portable zips, a source zip and `SHA256SUMS`.
 
 <br>
 

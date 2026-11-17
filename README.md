@@ -84,7 +84,7 @@ Analytics and recommendations are opt-in and stay on the device.
 </tr>
 <tr>
 <td align="center"><img src="docs/screenshots/settings.png" alt="Settings"><br><b>Settings</b><br><sub>Two-column source list</sub></td>
-<td align="center"><img src="docs/screenshots/player-full.png" alt="Full player"><br><b>Full-page player</b><br><sub>Artwork, queue and lyrics side by side</sub></td>
+<td align="center"><img src="docs/screenshots/player-queue.png" alt="Full player with queue"><br><b>Full-page player</b><br><sub>Artwork beside the queue or synced lyrics</sub></td>
 </tr>
 </table>
 

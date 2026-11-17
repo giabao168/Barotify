@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232" height="60" viewBox="0 0 232 60" role="img" aria-label="Download Barotify Lite for Windows">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#3A3A3F"/>
+      <stop offset="1" stop-color="#1E1E21"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="231" height="59" rx="16" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.22"/>
+  <rect x="1.5" y="1.5" width="229" height="28" rx="15" fill="#FFFFFF" fill-opacity="0.05"/>
+  <path transform="translate(22 16)" fill="#FFFFFF" d="M15 0 L3 16 H11 L9 28 L21 11 H13 Z"/>
+  <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" fill="#FFFFFF">
+    <text x="62" y="25" font-size="12" fill-opacity="0.7">Windows · light on RAM</text>
+    <text x="62" y="45" font-size="19" font-weight="600">Barotify Lite</text>
+  </g>
+</svg>
